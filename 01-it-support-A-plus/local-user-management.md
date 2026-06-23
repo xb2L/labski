@@ -13,6 +13,7 @@ net user
 OUTCOME:
 confirmed account creation and modifications(deactivated/activated, change password) thru command
 
-**WHY THIS MATTERS**
+**WHY THIS MATTERS**:
+
 IT support creates and manages user accounts frequently
 
