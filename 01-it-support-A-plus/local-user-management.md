@@ -8,6 +8,8 @@ COMMANDS USED:
 net user
 - used to get info on, create, or modify user account
 
+![User Management](D:\IT-Lab\Screenshots\User\managinguser623.png)
+
 OUTCOME::
 confirmed account creation and modifications(deactivated/activated, change password) thru command
 
