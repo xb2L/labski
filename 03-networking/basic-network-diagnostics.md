@@ -6,7 +6,7 @@ verify local network and internet connectivity
 
 ##1. IP CONFIGURATION
 
-command: ![ip configuration](../Screenshots/networking/ipconfig623.png/)
+command: ![ip configuration]
 
 shows:
 -IPv4 address
