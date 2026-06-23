@@ -31,14 +31,14 @@ confirms connection to local router
 
 ##4. INTERNET TEST
 
-command: ![internet ping](../Screenshots/networking/pinginternet623.png)
+command: ![internet ping]
 confirms external network connectivity
 
 ---
 
 ##5. DNS RESOLUTION TEST
 
-command: ![dns lookup](../Screenshots/networking/dnstest623.png)
+command: ![dns lookup]
 confirms DNS is resolving domain names correctly
 
 ---
