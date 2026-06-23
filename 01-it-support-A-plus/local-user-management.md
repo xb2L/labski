@@ -10,7 +10,7 @@ net user
 
 ![User Management](../Screenshots/User/managinguser623.png)
 
-OUTCOME::
+OUTCOME:
 confirmed account creation and modifications(deactivated/activated, change password) thru command
 
 **WHY THIS MATTERS**
