@@ -17,14 +17,14 @@ shows:
 
 ##2. LOCALHOST TEST
 
-command: ![localhost ping](../Screenshots/networking/pinglocal623.png)
+command: ![localhost ping]
 verifies that TCP/IP stack is working
 
 ---
 
 ##3. GATEWAY TEST
 
-command: ![gateway ping](../Screenshots/networking/pingrouter623.png)
+command: ![gateway ping]
 confirms connection to local router
 
 ---
